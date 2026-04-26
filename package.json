@@ -1,5 +1,5 @@
 {
-  "name": "woocommerce-mcp-server",
+  "name": "@arbazasif/woocommerce-mcp-server",
   "version": "1.0.0",
   "description": "Production-grade Model Context Protocol (MCP) server for WooCommerce — manage orders, products, customers, inventory and analytics with Claude AI or any MCP client",
   "main": "build/index.js",
@@ -33,7 +33,7 @@
     "anthropic",
     "llm-tools"
   ],
-  "author": "maasif787@gmail.com",
+  "author": "arbazasif",
   "license": "MIT",
   "homepage": "https://github.com/arbazex/woocommerce-mcp-server",
   "repository": {
